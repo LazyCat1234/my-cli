@@ -1,0 +1,30 @@
+{
+  "name": "ftmay",
+  "version": "1.0.1",
+  "description": "Framework Template Management by ay",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "struct": "bin/struct",
+    "struct-init": "bin/struct-init"
+  },
+  "url": "https://github.com/ay233/ftmay",
+  "email": "ay12580233@gmail.com",
+  "author": {
+    "name": "anyao",
+    "email": "ay12580233@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.20.0",
+    "fs": "0.0.1-security",
+    "inquirer": "^6.4.1",
+    "path": "^0.12.7"
+  }
+}
